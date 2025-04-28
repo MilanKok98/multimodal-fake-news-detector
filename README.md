@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-This project aims to develop a multimodal fake news detection system that analyzes both textual and visual content to determine the veracity of news articles. By combining natural language processing (NLP) for text analysis and computer vision techniques for image analysis, the system will provide more robust fake news detection compared to unimodal approaches.
+This project aims to develop a multimodal fake news detection system that analyzes both textual and visual content to determine the veracity of news articles. By combining natural language processing (NLP) for text analysis and computer vision techniques for image analysis, the system will provide more robust fake news detection compared to unimodal approaches. The project aims to answer the following problem statement: **given an image + headline/body text, predict if the news is real or fake.**
 
 
 ### **Key Features:**
@@ -15,9 +15,14 @@ This project aims to develop a multimodal fake news detection system that analyz
 
 ### **Dataset Requirements:**
 
+<<<<<<< HEAD
 The project will utilize datasets containing:
 
 - [https://github.com/entitize/Fakeddit](https://github.com/entitize/Fakeddit)
+=======
+Th[e project will utilize datasets containing:
+- https://github.com/KaiDMML/FakeNewsNet)
+>>>>>>> 55df7b5d746512cceadfff74a03cc4c1a952d6cc
 
 ### **Technical Approach:**
 
