@@ -14,15 +14,7 @@ This project aims to develop a multimodal fake news detection system that analyz
 - Evaluation against benchmark datasets
 
 ### **Dataset Requirements:**
-
-<<<<<<< HEAD
-The project will utilize datasets containing:
-
 - [https://github.com/entitize/Fakeddit](https://github.com/entitize/Fakeddit)
-=======
-Th[e project will utilize datasets containing:
-- https://github.com/KaiDMML/FakeNewsNet)
->>>>>>> 55df7b5d746512cceadfff74a03cc4c1a952d6cc
 
 ### **Technical Approach:**
 
